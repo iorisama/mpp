@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "915678989193",
+    "firebase_url": "https://fffest-login-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fffest-login",
+    "storage_bucket": "fffest-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915678989193:android:2359221f052d3af2dc6f58",
+        "android_client_info": {
+          "package_name": "com.cebirra.fffest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915678989193-gobe7gfkgo8jmflj1anafhpl1mcnrhre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cebirra.fffest",
+            "certificate_hash": "333314d09d52b6d66b2258511a45b68490cc7004"
+          }
+        },
+        {
+          "client_id": "915678989193-qomrlin44ssbg2mr650jp5qkf2846ikv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWBF3vQxtHhiVfw_sLrO8lpKsFEUVH9d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915678989193-qomrlin44ssbg2mr650jp5qkf2846ikv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915678989193-eemvcappe1u5odi2088arek485492hoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cebirra.fffest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
